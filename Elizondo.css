@@ -1,0 +1,25 @@
+#version {
+position: relative;
+top: 180px;
+left: 4px;
+}
+	
+body {
+background-color:rgb(255 255 255);
+font-family:sans-serif;
+margin:12px;
+}
+			
+.list-default {
+line-height:2em;
+}
+
+a {
+ color:rgb(56, 76, 255);
+}
+
+table, th, td {
+  border:1px solid black;
+  border-spacing: 30px;
+  padding: 15px;
+}
